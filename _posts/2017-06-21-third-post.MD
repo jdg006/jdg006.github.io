@@ -1,5 +1,7 @@
----layout: post
-title: Third Post---
+---
+layout: post
+title: Third Blog Post
+---
 **Third Post**
 
 *The biggest challenge you've faced when learning to develop*

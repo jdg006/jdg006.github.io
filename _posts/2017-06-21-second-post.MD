@@ -1,5 +1,7 @@
----layout: post
-title: Second Post---
+---
+layout: post
+title: Second Blog Post
+---
 **Second Post**
  
 *Your experience with Bloc*
