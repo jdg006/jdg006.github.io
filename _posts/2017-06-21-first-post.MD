@@ -2,9 +2,7 @@
 layout: post
 title: First Blog Post
 ---
-**First Blog Post** 
- 
-*Your goals as a Frontend developer*
+**Your goals as a Frontend developer**
  
 My main goal as a frontend developer in training is to learn the skills required to build  website from top to bottom without relying too much on outside resources. What I will end up doing with these skills is still up in the air. I have several interests that could guide my future career in frontend development. I am a soccer player with a degree in political science and enjoy gaming in my spare time. Any of these interests could push me towards a path in which I could utilize my learned skills as a frontend developer. 
  
